@@ -1,5 +1,6 @@
 # BCS Virtual Festival of Digital Skills 2020
 
+<img src="titleslide.png" alt="Skills in Computing and Data Science:  insights from the national skills landscape" />
 
 Slide deck as [PDF](2020_BCS_VFoDS_Forshaw.pdf). [Transcript](2020_BCS_VFoDS_Forshaw_Transcript.md).
 
